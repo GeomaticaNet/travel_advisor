@@ -2,6 +2,11 @@
 
 ![7_2](https://user-images.githubusercontent.com/16272697/190931866-a239b9da-7a14-47d0-a176-8fae803be84f.png)
 
+Aplicación webmapping para fines turísticos utilizando las siguientes tecnologías: React, Material UI, Google Maps API, RapidAPI.
+Una aplicación util para mostrar en un mapa de google mas detalles sobre elementos de interés utilizando api's de datos de libre acceso. 
+Un buen ejemplo de lo que se puede desarrollar utilizando React y apis de datos libres georreferenciados.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
