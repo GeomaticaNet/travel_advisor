@@ -5,6 +5,11 @@
 Aplicación webmapping para fines turísticos utilizando las siguientes tecnologías: React, Material UI, Google Maps API, RapidAPI.
 Una aplicación util para mostrar en un mapa de google mas detalles sobre elementos de interés utilizando api's de datos de libre acceso. 
 Un buen ejemplo de lo que se puede desarrollar utilizando React y apis de datos libres georreferenciados.
+La aplicación se encuentra desplegada en Netlify en la siguiente url: https://travel-advisor-gmnet.netlify.app/
+
+Proyecto original de JSMastery.
+
+NOTA: Actualmente la sección de la inclusion de una api de clima llamada OpenWeatherMap no funciona, lo cual se excluye del proceso.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
