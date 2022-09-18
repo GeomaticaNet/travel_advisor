@@ -1,5 +1,7 @@
 # Travel Advisor by JSM
 
+![7_2](https://user-images.githubusercontent.com/16272697/190931866-a239b9da-7a14-47d0-a176-8fae803be84f.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
