@@ -17,6 +17,7 @@ const MAP_STYLES = [
 ];
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN;
+mapboxgl.workerUrl = `https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl-csp-worker.js`;
 
 const MapComponent = ({
   setCoordinates,
